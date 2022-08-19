@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "b3ce9f26b41b2535",
+    "type": "split",
+    "children": [
+      {
+        "id": "610c36ea3d88d22b",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fc42dd7c458ed0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a3978e587473a1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "970deaa29b0f576f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cf08ecd47755038",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#pro",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "right": {
+    "id": "69e9318164620b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "de0191aeacff9023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0d5eb6b80653a70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267,
+    "collapsed": true
+  },
+  "active": "610c36ea3d88d22b",
+  "lastOpenFiles": [
+    "Brain/React/Caracteristicas/Props.md",
+    "Brain/Aprendiendo Obsidian/Markdown/Markdown.md",
+    "Brain/React/Caracteristicas/Estructura Basica de Componentes.md",
+    "Brain/React/Caracteristicas/PropTypes.md",
+    "Brain/ECMA 6+/Destructuracion.md",
+    "Aprendiendo Obsidian/Markdown/Caracteres/Texto.md",
+    "Aprendiendo Obsidian/Markdown/Markdown.md",
+    "Brain/React/React.md",
+    "Brain/Untitled.md",
+    "Aprendiendo Obsidian/Markdown/Caracteres/Encabezados.md"
+  ]
+}

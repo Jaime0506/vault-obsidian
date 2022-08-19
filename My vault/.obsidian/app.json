@@ -1,0 +1,14 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "es-419",
+    "es-MX"
+  ],
+  "vimMode": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "Aprendiendo Obsidian/Markdown"
+}
