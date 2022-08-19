@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "610c36ea3d88d22b",
+        "id": "a042d22b4322173b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Brain/React/Caracteristicas/Props.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brain/React/Caracteristicas/Props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,12 +82,12 @@
     "width": 267,
     "collapsed": true
   },
-  "active": "610c36ea3d88d22b",
+  "active": "a042d22b4322173b",
   "lastOpenFiles": [
+    "Brain/React/Caracteristicas/Props.md",
     "Brain/React/Caracteristicas/PropTypes.md",
     "Brain/React/React.md",
     "Brain/ECMA 6+/Destructuracion.md",
-    "Brain/React/Caracteristicas/Props.md",
     "Brain/Aprendiendo Obsidian/Markdown/Markdown.md",
     "Brain/React/Caracteristicas/Estructura Basica de Componentes.md",
     "Aprendiendo Obsidian/Markdown/Caracteres/Texto.md",
