@@ -7,8 +7,12 @@
         "id": "a042d22b4322173b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ECMA 6+/Destructuracion.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ECMA 6+/Destructuracion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "a042d22b4322173b",
   "lastOpenFiles": [
+    "React/React.md",
     "Brain/React/Caracteristicas/Props.md",
     "Brain/React/Caracteristicas/PropTypes.md",
     "Brain/React/React.md",
@@ -92,7 +98,6 @@
     "Brain/React/Caracteristicas/Estructura Basica de Componentes.md",
     "Aprendiendo Obsidian/Markdown/Caracteres/Texto.md",
     "Aprendiendo Obsidian/Markdown/Markdown.md",
-    "Brain/Untitled.md",
-    "Aprendiendo Obsidian/Markdown/Caracteres/Encabezados.md"
+    "Brain/Untitled.md"
   ]
 }
