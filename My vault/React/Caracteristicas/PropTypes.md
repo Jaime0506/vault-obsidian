@@ -17,7 +17,7 @@ yarn add prop-types
 ~~~
 prop-types nos permite darle tipado fuerte a nuestras [[Props]], que pasamos entre componentes.
 
-~~~js
+~~~JavaScript
 import PropTypes from 'prop-types'
 
 Component.propTypes = {
@@ -32,7 +32,7 @@ Definimos el tipo de dato a nuestros respectivos props y si es requerido.
 - Ejemplo de uso de PropTypes:
 
 Componente <Card /> que resive como props { name, edad, getData }
-~~~jsx
+~~~JavaScript
 import PropTypes from 'prop-types'
 
 export const Card = ({ name, age, getData }) => {
@@ -56,4 +56,5 @@ Card.propTypes = {
 De esta manera, gracias a la librería prop-types podemos darle tipado mas fuerte a los props de nuestros componentes **JSX** en **ReactJS**
 
 ==En la pagina oficial se encuentra la documentación mas detallada y completa de las funciones y utilidades de la librería.==
+
 [prop-types Documentacion](https://www.npmjs.com/package/prop-types)

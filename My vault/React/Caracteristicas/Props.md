@@ -45,7 +45,7 @@ En el ejemplo anterior pasamos title, llamamos al objeto props y de este destruc
 
 --- 
 
-**(NOTA)**: actualmente es recomendable destructurar los valores directamente en el objeto props, ya que cada vez es menos usada la menera tradicional de hacerlo.
+**(NOTA)**: actualmente es recomendable destructurar los valores directamente en el objeto props, ya que cada vez es menos usada la manera tradicional de hacerlo.
 
 *Ejemplo:* 
 
@@ -68,6 +68,4 @@ En el ejemplo anterior pasamos title, llamamos al objeto props y de este destruc
 
 > debemos conocer como destructurar objetos y arreglos [[Destructuracion]].
 
-Para exigir parametros desde los componentes hijos, que sean obligarios y de un tipo de dato obligario, tenemos [[PropTypes]]
-
-POrque monda no funcion
+Para exigir parámetros desde los componentes hijos, que sean obligatorios y de un tipo de dato en especifico, tenemos [[PropTypes]].
