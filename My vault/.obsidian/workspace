@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/React.md",
+            "file": "Proyectos/find-your-house/Idea.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React.md",
+                "file": "Proyectos/find-your-house/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "a042d22b4322173b",
   "lastOpenFiles": [
+    "React/React.md",
     "React/Caracteristicas/Props.md",
     "React/Caracteristicas/Estructura Basica de Componentes.md",
     "ECMA 6+/Destructuracion.md",
-    "React/React.md",
     "React/Caracteristicas/PropTypes.md",
     "Aprendiendo Obsidian/Markdown/Caracteres/Texto.md",
     "Aprendiendo Obsidian/Markdown/Markdown.md",
