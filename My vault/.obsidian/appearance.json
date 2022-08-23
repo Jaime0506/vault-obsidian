@@ -1,5 +1,6 @@
 {
   "cssTheme": "Obsidianite",
   "baseFontSize": 19,
-  "translucency": false
+  "translucency": false,
+  "monospaceFontFamily": "Cascadia Code PL"
 }

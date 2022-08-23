@@ -2,5 +2,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-html-tags-autocomplete",
   "obsidian-dictionary-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-admonition",
+  "obsidian-icon-folder"
 ]
