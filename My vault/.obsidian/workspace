@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "bf5b2745fe4e22d2",
+        "id": "89580aa5abbec888",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Universidad/Primer Semestre/Logica de Programacion/Java/Guia 1.md",
+            "file": "Universidad/Primer Semestre/Logica de Programacion/Guia 3.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "69e9318164620b5a",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Primer Semestre/Logica de Programacion/Java/Guia 1.md",
+                "file": "Universidad/Primer Semestre/Logica de Programacion/Guia 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +88,17 @@
     "width": 267,
     "collapsed": true
   },
-  "active": "bf5b2745fe4e22d2",
+  "active": "89580aa5abbec888",
   "lastOpenFiles": [
-    "Aprendiendo Obsidian/Markdown/Pasted image 20220823182028.png",
-    "Universidad/Primer Semestre/Logica de Programacion/Java/Guia 1.md",
-    "Aprendiendo Obsidian/Markdown/Caracteres/Encabezados.md",
+    "Universidad/Primer Semestre/Logica de Programacion/Guia 2.md",
+    "Universidad/Primer Semestre/Logica de Programacion/Guia 3.md",
+    "Universidad/Primer Semestre/Logica de Programacion/Java/Scanner.md",
+    "Universidad/Primer Semestre/Logica de Programacion/Guia 1.md",
     "Aprendiendo Obsidian/Markdown/Caracteres/Texto.md",
+    "Aprendiendo Obsidian/Markdown/Pasted image 20220823182028.png",
     "Universidad/Calendario/(Every M) CATEDRA).md",
-    "Universidad/Primer Semestre/Logica de Programacion/Untitled.md",
+    "Aprendiendo Obsidian/Markdown/Caracteres/Encabezados.md",
     "Proyectos/find-your-house/Idea.md",
-    "React/React.md",
-    "React/Caracteristicas/Props.md",
-    "React/Caracteristicas/Estructura Basica de Componentes.md"
+    "React/React.md"
   ]
 }

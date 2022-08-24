@@ -1,10 +1,12 @@
 ### Texto Plano
 El texto plano hace referencia a los caracteres que podemos usar para editar el texto, como negrita, subrayar, etc. En Markdown tenemos los siguientes caracteres.
 
-<pre>
+```ad-note
+title:
+
 El tipo, la forma, el tamaño y el color del efecto cursiva, puede variar dependiendo del tema que tengamos
-</pre>
-	
+```
+
 * **Cursiva**
 	- Con los símbolos de **\*\*** podemos convertir texto en cursiva, todo texto que este dentro de **\*\*** se convertirá en cursiva.<br>
 	\- Cursiva: *Este texto esta en cursiva*
