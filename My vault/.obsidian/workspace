@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Universidad/Primer Semestre/Logica de Programacion/Guia 3.md",
+            "file": "Universidad/Primer Semestre/Teoria General de Sistemas/Clasificacion/Según su Naturaleza.md",
             "mode": "source",
             "source": true
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "69e9318164620b5a",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Primer Semestre/Logica de Programacion/Guia 3.md",
+                "file": "Universidad/Primer Semestre/Teoria General de Sistemas/Clasificacion/Según su Naturaleza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "89580aa5abbec888",
   "lastOpenFiles": [
-    "Universidad/Primer Semestre/Logica de Programacion/Guia 2.md",
+    "Universidad/Primer Semestre/Teoria General de Sistemas/Que es un sistema.md",
+    "Universidad/Primer Semestre/Teoria General de Sistemas/Clasificacion/Según su Naturaleza.md",
     "Universidad/Primer Semestre/Logica de Programacion/Guia 3.md",
+    "Universidad/Primer Semestre/Logica de Programacion/Guia 2.md",
     "Universidad/Primer Semestre/Logica de Programacion/Java/Scanner.md",
     "Universidad/Primer Semestre/Logica de Programacion/Guia 1.md",
     "Aprendiendo Obsidian/Markdown/Caracteres/Texto.md",
     "Aprendiendo Obsidian/Markdown/Pasted image 20220823182028.png",
     "Universidad/Calendario/(Every M) CATEDRA).md",
-    "Aprendiendo Obsidian/Markdown/Caracteres/Encabezados.md",
-    "Proyectos/find-your-house/Idea.md",
-    "React/React.md"
+    "Aprendiendo Obsidian/Markdown/Caracteres/Encabezados.md"
   ]
 }

@@ -10,5 +10,11 @@
   ],
   "vimMode": false,
   "trashOption": "local",
-  "attachmentFolderPath": "Aprendiendo Obsidian/Markdown"
+  "attachmentFolderPath": "Aprendiendo Obsidian/Markdown",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
